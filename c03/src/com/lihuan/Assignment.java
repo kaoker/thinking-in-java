@@ -10,6 +10,7 @@ public class Assignment {
         Number n2 = new Number();
         n1.i = 9;
         n2.i = 47;
+        //我在远程添加了一个注释
         System.out.println("1: n1.i: " + n1.i + " ,n2.i " + n2.i);
         n1 = n2;
         System.out.println("1: n1.i: " + n1.i + " ,n2.i " + n2.i);
